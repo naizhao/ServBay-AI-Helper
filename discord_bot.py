@@ -24,7 +24,7 @@ if not all([DISCORD_BOT_TOKEN, DASHSCOPE_API_KEY, BAILIAN_APP_ID]):
     # 提醒用户检查 .env 文件内容和位置
     logging.error("请确认：")
     logging.error("1. 项目根目录下存在名为 .env 的文件。")
-    logging.error(f"2. .env 文件包含 'DASHSCOPE_API_KEY=你的真实API Key' 这一行，并且 Key 是正确的。")
+    logging.error(f"2. .env 文件包含 'DASHSCOPE_API_KEY=你的百炼API Key' 这一行，并且 Key 是正确的。")
     logging.error(f"3. .env 文件包含 'DISCORD_BOT_TOKEN=你的机器人Token'。")
     logging.error(f"4. .env 文件包含 'BAILIAN_APP_ID=你的百炼应用AppId'。")
     exit()
