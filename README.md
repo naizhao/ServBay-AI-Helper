@@ -2,6 +2,10 @@
 
 A simple AI assistant bot based on Ali BaiLian, supporting Telegram and Discord.
 
+一个基于阿里百炼的简单AI助手机器人，支持Telegram和Discord。
+
+两分钟就能部署完毕，简单粗暴，不需要费劲巴拉的搞那么一大堆框架和依赖。一如 [ServBay](https://www.servbay.com) 所主打的理念：3 分钟配置好开发环境。
+
 ## Screenshots
 
 ![Discord](images/discord.png)
