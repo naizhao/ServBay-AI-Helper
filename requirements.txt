@@ -1,0 +1,4 @@
+dashscope==1.23.2
+discord.py==2.5.2
+python-dotenv==1.1.0
+python-telegram-bot==22.0
